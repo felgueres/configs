@@ -1,0 +1,13 @@
+[user]
+	name = felgueres
+	email = pablofelgueres@gmail.com
+
+[alias]
+	aa = add -A
+	co = checkout 
+	ca = commit --amend
+	com = commit -m 
+	m = checkout master
+	st = status
+	del = branch -D 	
+
